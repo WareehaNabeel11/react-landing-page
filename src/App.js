@@ -18,7 +18,7 @@ function App() {
     <Company/>
     <RatingProjects/>
     <Work/>
-    <div id="modal01" className="w3-modal w3-black" >
+     <div id="modal01" className="w3-modal w3-black" >
       <span className="w3-button w3-xxlarge w3-black w3-padding-large w3-display-topright" title="Close Modal Image">×</span>
       <div className="w3-modal-content w3-animate-zoom w3-center w3-transparent w3-padding-64">
         <img id="img01" className="w3-image"/>
